@@ -1,0 +1,7 @@
+﻿{
+	"name": "NoImp",
+	"short_name": "NoImp",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any"
+}
